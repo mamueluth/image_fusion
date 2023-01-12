@@ -1,0 +1,10 @@
+# nix and direnev
+.direnv/*
+.envrc
+
+# python
+__pycache__/*
+*.pyc
+
+# pycharm
+.idea/*
